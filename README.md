@@ -1,3 +1,5 @@
+## Overview
+
 Brainfuck is an esoteric programming language consisting of only 8 commands. In this repository I aimed to make a fully compatible interpreter in C and also as demonstration, make some programs to run using it.
 
 My version of the interpreter uses a raw unbuffered interface so you don't need to press enter each time you type a character (as in brainfuck you can only input a character at once). It also defaults to `noecho`, up to you if that's a good thing.
